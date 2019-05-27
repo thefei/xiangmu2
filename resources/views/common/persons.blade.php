@@ -76,7 +76,7 @@
 <!--菜单栏-->
 	<div class="Navigation" id="Navigation">
 		 <ul class="Navigation_name">
-			<li><a href="">首页</a></li>
+			<li><a href="">首 页</a></li>
 			<li><a href="#">你身边的超市</a></li>
 			<li><a href="#">预售专区</a><em class="hot_icon"></em></li>
 			<li><a href="products_list.html">商城</a></li>
