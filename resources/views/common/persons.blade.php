@@ -90,7 +90,7 @@
     </div>
 </head>
 <!--用户中心样式-->
-<div class="user_style clearfix">
+<div  class="user_style clearfix">
  <div class="user_center clearfix">
    <!--左侧样式-->
     <div class="left_style">
